@@ -1,5 +1,5 @@
-# Typescript
-TypeScript is a statically‑typed superset of JavaScript assignments that compiles to clean, standard JavaScript code and helps catch bugs early through type checking. This repository contains my personal TypeScript practice and small projects that I’ve built to improve my understanding of typed programming and modern development workflows.
+# Typescript Assignments
+TypeScript Assignments is a statically‑typed superset of JavaScript that compiles to clean, standard JavaScript code and helps catch bugs early through type checking. This repository contains my personal TypeScript practice and small projects that I’ve built to improve my understanding of typed programming and modern development workflows.
 
 ✨ What’s in This Repo:
 
